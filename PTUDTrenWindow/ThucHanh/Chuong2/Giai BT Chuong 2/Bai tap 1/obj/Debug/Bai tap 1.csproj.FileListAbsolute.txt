@@ -1,0 +1,10 @@
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong2\Giai BT Chuong 2\Bai tap 1\bin\Debug\Bai tap 1.exe.config
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong2\Giai BT Chuong 2\Bai tap 1\bin\Debug\Bai tap 1.exe
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong2\Giai BT Chuong 2\Bai tap 1\bin\Debug\Bai tap 1.pdb
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong2\Giai BT Chuong 2\Bai tap 1\obj\Debug\Bai tap 1.csproj.AssemblyReference.cache
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong2\Giai BT Chuong 2\Bai tap 1\obj\Debug\Bai_tap_1.Form1.resources
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong2\Giai BT Chuong 2\Bai tap 1\obj\Debug\Bai_tap_1.Properties.Resources.resources
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong2\Giai BT Chuong 2\Bai tap 1\obj\Debug\Bai tap 1.csproj.GenerateResource.cache
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong2\Giai BT Chuong 2\Bai tap 1\obj\Debug\Bai tap 1.csproj.CoreCompileInputs.cache
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong2\Giai BT Chuong 2\Bai tap 1\obj\Debug\Bai tap 1.exe
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong2\Giai BT Chuong 2\Bai tap 1\obj\Debug\Bai tap 1.pdb

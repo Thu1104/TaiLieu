@@ -1,0 +1,14 @@
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong2\Giai BT Chuong 2\Bai 5\bin\Debug\Bai 5.exe.config
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong2\Giai BT Chuong 2\Bai 5\bin\Debug\Bai 5.exe
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong2\Giai BT Chuong 2\Bai 5\bin\Debug\Bai 5.pdb
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong2\Giai BT Chuong 2\Bai 5\bin\Debug\Bai 4.exe
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong2\Giai BT Chuong 2\Bai 5\bin\Debug\Bai 4.pdb
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong2\Giai BT Chuong 2\Bai 5\bin\Debug\Bai 4.exe.config
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong2\Giai BT Chuong 2\Bai 5\obj\Debug\Bai 5.csproj.AssemblyReference.cache
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong2\Giai BT Chuong 2\Bai 5\obj\Debug\Bai_5.Form1.resources
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong2\Giai BT Chuong 2\Bai 5\obj\Debug\Bai_5.Properties.Resources.resources
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong2\Giai BT Chuong 2\Bai 5\obj\Debug\Bai 5.csproj.GenerateResource.cache
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong2\Giai BT Chuong 2\Bai 5\obj\Debug\Bai 5.csproj.CoreCompileInputs.cache
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong2\Giai BT Chuong 2\Bai 5\obj\Debug\Bai 5.csproj.CopyComplete
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong2\Giai BT Chuong 2\Bai 5\obj\Debug\Bai 5.exe
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong2\Giai BT Chuong 2\Bai 5\obj\Debug\Bai 5.pdb

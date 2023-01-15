@@ -1,0 +1,80 @@
+body {
+    background-color: burlywood;
+    color: black;
+    margin: 0;
+}
+
+header {
+    /*lên cùng hàng */
+    display: flex;
+    background-color: white;
+    /*chỉnh ra giữa */
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+}
+
+.img {
+    flex: 1;
+    display: flex;
+    height: 45px;
+    margin-top: 8px;
+    margin-left: 8px;
+}
+
+.menu {
+    flex: 2;
+    /*layout*/
+    display: flex;
+    justify-content: center;
+}
+
+.avt {
+    flex: 1;
+    text-align: end;
+}
+
+.avt img {
+    height: 35px;
+    width: 35px;
+    margin-right: 20px;
+    margin-top: 8px;
+}
+
+.menu a:hover {
+    color: blue;
+    /* Gạch dưới*/
+    border-bottom: 2px solid;
+}
+
+.menu a {
+    display: flex;
+    font-size: 18px;
+    color: black;
+    text-decoration: none;
+    margin-top: 15px;
+    margin-left: 18px;
+}
+
+.body {}
+
+p {
+    text-align: center;
+    font-size: 23px;
+    margin-left: 700px;
+    margin-right: 700px;
+}
+
+.body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 200px;
+    flex-direction: column;
+}
+
+
+}
+
+/* heigh: calc(100vh-48px) : giữa trang web, trừ thanh cuộn
+*/

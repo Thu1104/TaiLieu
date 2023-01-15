@@ -1,0 +1,9 @@
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong2\Vi du\Vi du 4.5\bin\Debug\Vi du 4.5.exe.config
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong2\Vi du\Vi du 4.5\bin\Debug\Vi du 4.5.exe
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong2\Vi du\Vi du 4.5\bin\Debug\Vi du 4.5.pdb
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong2\Vi du\Vi du 4.5\obj\Debug\Vi_du_4._5.Form1.resources
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong2\Vi du\Vi du 4.5\obj\Debug\Vi_du_4._5.Properties.Resources.resources
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong2\Vi du\Vi du 4.5\obj\Debug\Vi du 4.5.csproj.GenerateResource.cache
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong2\Vi du\Vi du 4.5\obj\Debug\Vi du 4.5.csproj.CoreCompileInputs.cache
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong2\Vi du\Vi du 4.5\obj\Debug\Vi du 4.5.exe
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong2\Vi du\Vi du 4.5\obj\Debug\Vi du 4.5.pdb

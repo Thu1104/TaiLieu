@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai 4", "Bai 4.csproj", "{997E9EEB-7132-433B-9612-D3AD8472C576}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai 5", "..\Bai 5\Bai 5.csproj", "{FD223059-3A63-4229-A3B2-00E6646A16E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{997E9EEB-7132-433B-9612-D3AD8472C576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{997E9EEB-7132-433B-9612-D3AD8472C576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{997E9EEB-7132-433B-9612-D3AD8472C576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{997E9EEB-7132-433B-9612-D3AD8472C576}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD223059-3A63-4229-A3B2-00E6646A16E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD223059-3A63-4229-A3B2-00E6646A16E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD223059-3A63-4229-A3B2-00E6646A16E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD223059-3A63-4229-A3B2-00E6646A16E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC5BBD6F-E385-4169-879D-BB72F71972D0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,19 @@
+    h3 {
+    text-align: center;
+    color: red;
+}
+
+p {
+    text-align: center;
+}
+
+#table {
+    margin: 0 auto;
+    background-color: darkgrey;
+    width: 25%;
+    height: 350px;
+}
+
+.abc label{
+    margin-left: 5px;
+}

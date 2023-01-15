@@ -1,0 +1,10 @@
+let admin, name;
+name = "John";
+admin = name;
+alert(admin);
+let sun;
+let username;
+username = 'Nguyễn Văn A';
+alert(username);
+const BIRTHDAY = '11.04.2000';
+const AGE = someCode(BIRTHDAY);

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form đăng ký</title>
+    <link rel="stylesheet" href="buoi1bai2.css">
+</head>
+
+<body>
+    <p>Họ tên: Nguyễn Thị Anh Thư</p>
+    <p>MSSV: B1809301</p>
+    <h3>Đăng ký tài khoản mới</h3>
+    <p>Vui lòng điền đầy đủ thông tin bên dưới để đăng ký tài khoản mới</p>
+    <form class="abc"  onsubmit="return checkForm()">
+        <table id="table">
+            <tr>
+                <td><label for="firstname">Tên đăng nhập</label></td>
+                <td><input type="text" name="firstname" id="firstname" value="firstname"></td>
+            </tr>
+            <tr>
+                <td><label for="password">Mật khẩu</label></td>
+                <td><input type="password" name="password" id="password" value="password"></td>
+            </tr>
+            <tr>
+                <td><label for="password">Gõ lại mật khẩu</label></td>
+                <td><input type="password" name="password" id="password" value="password"></td>
+            </tr>
+            <tr>
+                <td><label for="picture">Hình đại diện</label></td>
+                <td><input type="file" name="picture" id="picture" value="picture"></td>
+            </tr>
+            <tr>
+                <td><label for="gender">Giới tính</label></td>
+                <td>
+                    <input type="radio" name="gender" id="male" value="male">
+                    <label for="male">Nam</label>
+                    <input type="radio" name="gender" id="female" value="female">
+                    <label for="female">Nữ</label>
+                    <input type="radio" name="gender" id="other" value="other">
+                    <label for="other">Khác</label>
+                </td>
+            </tr>
+            <tr>
+                <td><label for="job">Nghề nghiệp</label></td>
+                <td>
+                    <select>
+                    <option value="student">Học sinh</option>
+                    <option value="student">Sinh viên</option>
+                    <option value="teacher">Giáo viên</option>
+                    <option value="other">Khác</option>
+                </select>
+                </td>
+            </tr>
+            <tr>
+                <td><label for="interests">Sở thích</label></td>
+                <td>
+                    <input type="checkbox" name="interests" id="sport" value="sport">
+                    <label for="sport">Thể thao</label>
+                    <input type="checkbox" name="interests" id="travel" value="travel">
+                    <label for="travel">Du lịch</label>
+                    <input type="checkbox" name="interests" id="music" value="music">
+                    <label for="music">Âm nhạc</label><br>
+                    <input type="checkbox" name="interests" id="fashion" value="fashion">
+                    <label for="fashion">Thời trang</label>
+                </td>
+                <tr>
+                    <td></td>
+                    <td>
+                        <input type="submit" value="Đăng ký">
+                        <input type="submit" value="Làm lại">
+                    </td>
+        </table>
+    </form>
+</body>
+
+</html>

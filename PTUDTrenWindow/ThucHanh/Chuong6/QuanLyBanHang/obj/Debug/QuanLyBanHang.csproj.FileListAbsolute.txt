@@ -1,0 +1,11 @@
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong6\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong6\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong6\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong6\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong6\QuanLyBanHang\obj\Debug\QuanLyBanHang.FormThanhPho.resources
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong6\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong6\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong6\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong6\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong6\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\Mon\PTUDTrenWindow\ThucHanh\Chuong6\QuanLyBanHang\obj\Debug\QuanLyBanHang.FormKhachHang.resources

@@ -1,0 +1,46 @@
+<html>
+  <head>
+    <title>04</title>
+  </head>
+  <body>
+    <div id="root"></div>
+
+    <script
+      crossorigin
+      src="https://unpkg.com/react@17/umd/react.development.js"
+    ></script>
+    <script
+      crossorigin
+      src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"
+    ></script>
+    <script src="https://unpkg.com/@babel/standalone@7.12.4/babel.js"></script>
+
+    <script type="text/babel">
+      //function Message(props){
+        //  return <h1>Môn {props.name}</h1>
+     // }
+     
+      const Message = (props) => (
+        //const []
+        //const doupleState = () => setState()
+          <h1 
+            style={{
+                color: 'red',
+                fontFamily: 'Arial',
+                textAlign: 'center',
+            }}
+            >
+          Môn {props.name}
+          </h1>
+      )
+      ReactDOM.render(
+        <div>
+            <Message name="lập trình web" />
+            <Message name="hệ điều hành" />
+            <Message name="lý thuyết đồ thị" />
+        </div>,
+        document.getElementById('root'),
+      )
+    </script>
+  </body>
+</html>

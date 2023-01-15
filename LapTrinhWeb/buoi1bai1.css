@@ -1,0 +1,32 @@
+p {
+    text-align: center;
+}
+
+h2 {
+    color: red;
+    text-align: center;
+}
+
+table {
+    text-align: center;
+    margin: 0 auto;
+    color: black;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: bisque;
+}
+
+.td {
+    background-color: darkkhaki;
+}
+
+.a {
+    background-color: gainsboro;
+}
+
+td:hover {
+    background-color: thistle;
+    color: red;
+}

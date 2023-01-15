@@ -1,0 +1,125 @@
+body {
+    margin: 0 ;
+    background-image: url(img/black.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    color: white;
+}
+
+#menu {
+    display: flex;
+    background-color:rgb(17, 27, 112);
+    position: relative;
+    height: 80px;
+    position: sticky;
+    top: 0;
+}
+#menu h1{
+    flex: 2;
+    font-size: 50px;
+    background-image: url(img/hinhnenden.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: rgb(29, 12, 179);
+    text-shadow: 0 0 0.2em red, 0 0 0.2em red;
+    height: 80px;
+    margin-top: 0px;
+   text-align: center;
+}
+#menu ul{
+    flex: 5;
+    display: flex;
+    margin-top: 0px;
+    margin-left: -39px;
+}
+#menu ul li{
+    margin: auto;
+    list-style-type: none;
+    border: 1px solid rgb(11, 19, 85);
+    border-radius: 3%;
+    margin-top: 0px;
+    padding: 14px 120px;
+    font-weight: 700;
+}
+#menu li a{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+#menu ul li ul{
+    display: none;
+    position: absolute;
+    margin-top: 15px;
+    width: 200px;
+}
+#menu ul li li{
+    margin-left: -85px;
+    background-color: rgb(17, 27, 112);
+    text-align: center;
+}
+#menu li:hover ul{
+    background-color: rgb(17, 27, 112);
+    display: block;
+    margin-left: -75px;
+}
+#menu ul li:hover {
+    background-color: rgb(11, 19, 87);
+    color: red;
+}
+#menu ul li li a:hover {
+    font-weight: 700;
+    color: red;
+}
+#wrap {
+    display: flex;
+}
+#wrap a{
+    color: white;
+    text-decoration: none;
+}
+#wrap a:hover{
+    color: red;
+}
+#introduct {
+    float: left;
+    width: 475px;
+    height: 888px;
+    background-color: rgb(10, 17, 77);
+    position: sticky;
+    top: 80px;
+}
+#introduct img{
+    border-radius: 90%;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 100px;
+}
+#introduct h4{
+    font-size: 30px;
+    text-align: center;
+    color:red;
+    text-shadow: 0 0 0.2em rgb(114, 7, 7), 0 0 0.2em rgb(114, 7, 7),0 0 0.2em rgb(114, 7, 7);
+    
+}
+#introduct table{
+    margin: 0 auto;
+}
+#content{
+    float: right;
+    max-width: 850px;
+    margin-left: 50px;
+}
+#content h1{
+    font-size: 65px;
+    font-weight: 700;
+    text-align: center;
+    color: rgb(14, 13, 85);
+    text-shadow: 0 0 0.2em red, 0 0 0.2em red;
+}
+#content img{
+    margin-left: 40px;
+    margin-right: 40px;
+    height: 450px;
+}

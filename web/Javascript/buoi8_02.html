@@ -1,0 +1,41 @@
+<html>
+  <head>
+    <title>08</title>
+  </head>
+  <body>
+    <div id="root"></div>
+
+    <script
+      crossorigin
+      src="https://unpkg.com/react@17/umd/react.development.js"
+    ></script>
+    <script
+      crossorigin
+      src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"
+    ></script>
+    <script src="https://unpkg.com/@babel/standalone@7.12.4/babel.js"></script>
+
+    <script type="text/babel">
+      const Message = (props) => (
+    
+          <form 
+            onSubmit={(e) => {
+                e.preventDefault();
+                const username = e.target[0].value
+                console.log(username)
+                setName(name)
+            }}>
+            <label htmlFor="username"> Name</label>
+            <input type="text" name="username" id="username" />
+            <button type="submit" value="submit">submit</button>
+          </form>
+      )
+      ReactDOM.render(
+        
+            <Message />,
+      
+        document.getElementById('root')
+      )
+    </script>
+  </body>
+</html>

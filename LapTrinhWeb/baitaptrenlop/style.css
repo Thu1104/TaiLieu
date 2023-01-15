@@ -1,0 +1,101 @@
+body {
+    background-color: rgb(59, 59, 59);
+    max-width: 900px;
+    margin: auto;
+}
+
+#wrap {
+    background-color: rgb(98, 168, 145);
+    padding: 5px;
+}
+
+#wrap #title {
+    background-image: url(banner.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 170px;
+    height: 170px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    margin-top: -30px;
+    
+}
+#title h1{
+    color: yellow;
+    padding: 60px;
+    text-align: center;
+    font-size: 60px;
+    font-family: Broadway;
+}
+#menu {
+    display: flex;
+    background-color: rgb(39, 39, 39);
+    position: relative;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#menu ul{
+    display: flex;
+    margin: 0 auto;
+    margin-left: -40px;
+    
+    
+}
+#menu ul li{
+    list-style-type: none;
+    border: 1px dotted yellow;
+    padding: 5px 86px;
+}
+#menu li a{
+    color: yellow;
+    font-size: 16px;
+    text-decoration: none;
+}
+#menu ul li ul{
+    display: none;
+    position: absolute;
+    margin-top: 5px;
+}
+#menu ul li li{
+    margin-left: -80px;
+    padding: 5px 60px;
+    background-color: rgb(39, 39, 39);
+}
+
+#menu li:hover ul{
+    display: block;
+    margin-left: -46px;
+}
+#menu ul ul li:hover {
+    background-color: rgb(233, 142, 142);
+    color: black;
+}
+#menu ul li li a:hover {
+    font-weight: 700;
+}
+#content{
+    max-width: 900px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 20px;
+    border-bottom: 2px dotted black;
+    padding-bottom: 20px;
+    font-weight: 600;
+}
+#content h4{
+    color: yellow;
+    border-bottom: 2px dotted yellow;
+    max-width: 87px;
+    margin-bottom: 5px;
+}
+#content a{
+    color: white;
+}
+#footer {
+    text-align: center;
+}
+#footer p{
+    font-size: 20px;
+    padding: 10px;
+    font-weight: 600;
+}

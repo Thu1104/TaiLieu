@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>form</title>
+</head>
+
+<body>
+    <div>
+        <form>
+            <div>
+                <input type="radio" name="gender" id="male">
+                <label for="male">Anh</label>
+                <input type="radio" name="gender" id="female">
+                <label for="female">Chị</label>
+            </div>
+            <div>
+                <label for="firstname"></label>
+                <input type="text" placeholder="Họ và tên" name="firstname" id="firstname">
+                <label for="number"></label>
+                <input type="number" placeholder="Số điện thoại" name="number" id="number">
+            </div>
+            <label for="other"></label>
+            <input type="text" placeholder="Yêu cầu khác" name="other" id="other"><br>
+            <p><b>Để được phục vụ nhanh hơn,</b> hãy chọn thêm:</p><br>
+            <input type="radio" name="thêm" id="Địa chỉ">
+            <label for="Địa chỉ">Địa chỉ giao hàng</label>
+            <input type="radio" name="thêm" id="Nhận">
+            <label for="Nhận">Nhận tại siêu thị</label><br>
+            <select>
+            <option value="1">Hồ Chí Minh</option>
+            <option value="2">Cần Thơ</option>
+            <option value="3">Bạc Liêu</option>
+        </select>
+            <select>
+            <option value="4">Chọn quận, huyện</option>
+            
+        </select><br>
+            <select>
+            <option value="5">Chọn phường, xã</option>
+        </select>
+            <label for="Số nhà"></label>
+            <input type="text" placeholder="Số nhà, tên đường" name="Số nhà" id="Số nhà"><br>
+            <p>Hướng dẫn: Chọn địa chỉ để biết chính xác thời gian giao hàng</p><br>
+            <input type="checkbox">
+            <label>Gọi người khác nhận hàng (Nếu có)</label><br>
+            <input type="checkbox">
+            <label>Chuyển danh bạ, dữ liệu qua máy mới</label><br>
+            <div>
+                <label>Chọn file</label>
+                <input type="file" name="chonfile">
+            </div>
+            <input type="submit" value="Đặt hàng">
+
+        </form>
+    </div>
+</body>
+
+</html>
